@@ -1,7 +1,4 @@
-Here’s the updated README with proper GitHub formatting for a cleaner and professional look:
 
-
----
 
 School Management System
 
