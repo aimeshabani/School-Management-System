@@ -4,6 +4,8 @@
 
 This is a comprehensive School Management System designed to streamline and enhance school administration processes. The system manages teacher data, student records, financial transactions, and more. It generates professional documents like report cards, payment receipts, and financial reports while offering advanced features for data analysis, scheduling, and security.
 
+---
+
 **Features**
 
 1. *Student Management:*
@@ -21,7 +23,7 @@ Specific Criteria: For example, find an orphan excelling in science.
 
 Analyze subject-wise performance, including failure rates and class performance percentages.
 
----
+
 
 2. *Teacher Management:*
 
