@@ -172,7 +172,7 @@ Find specific groups of students or teachers based on attributes like debt, perf
 
 
 
-Screenshots
+*Screenshots*
 
 Include screenshots of the following:
 
